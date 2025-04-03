@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.text-border-incomplete {
+  text-shadow: 0px 0px 10px rgba(222, 190, 5, 0.772);
+}
+.text-border-complete {
+    text-shadow: 0px 0px 10px rgba(139, 222, 5, 0.772);
+  }
